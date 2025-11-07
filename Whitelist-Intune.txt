@@ -1,3 +1,15 @@
+[Adblock Plus]
+! Version: 202511071221
+! Title: oisd big
+! Description: Block. Don't break.
+! Syntax: Adblock Plus Filter List
+! Entries: 20
+! Last modified: 2025-11-07T12:21:53+0000
+! Expires: 1 hours
+! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
+! Maintainer: Stephan van Ruth
+! Homepage: https://oisd.nl
+
 ||manage.microsoft.com^
 ||dl.delivery.mp.microsoft.com^
 ||do.dsp.mp.microsoft.com^
